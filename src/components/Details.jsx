@@ -1,7 +1,7 @@
-import FreeCancellation from "../assets/FreeCancellation.png";
-import PaymentAtTheHotel from "../assets/PaymentAtTheHotel.png";
-import UpTo75 from "../assets/UpTo75.png";
-import WorldwideLeader from "../assets/WorldwideLeader.png";
+import FreeCancellation from ".../assets/FreeCancellation.png";
+import PaymentAtTheHotel from ".../assets/PaymentAtTheHotel.png";
+import UpTo75 from ".../assets/UpTo75.png";
+import WorldwideLeader from ".../assets/WorldwideLeader.png";
 
 function Details() {
   const data = [
